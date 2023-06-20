@@ -1,0 +1,43 @@
+.dashboard {
+    padding: 20px;
+}
+
+.dashboard h2 {
+    margin-bottom: 20px;
+}
+
+.dashboard-cards {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.dashboard-card {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    flex: 1 1 200px;
+}
+
+.dashboard-card ul {
+    list-style: none;
+    padding: 0;
+}
+
+.pdf-content {
+    padding: 10px;
+}
+
+.pdf-header {
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+.pdf-footer {
+    text-align: center;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    margin-top: 10px;
+}

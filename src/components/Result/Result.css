@@ -1,0 +1,13 @@
+.result-container {
+    text-align: center;
+    margin: 20px;
+    font-size: 18px;
+}
+
+.unique {
+    color: green;
+}
+
+.not-unique {
+    color: red;
+}
